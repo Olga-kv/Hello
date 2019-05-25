@@ -1,0 +1,5 @@
+print('Hello,world')
+print('and hello vanya')
+print('i think you have a good day!!')
+print('i say:yes|no')
+print('i say:->yes|no')
